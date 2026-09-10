@@ -144,6 +144,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 **Made with ❤️ by [Workally](https://workally.com.br) in São Paulo, Brazil**
 
-[Website](https://v-raykally.online) • [GitHub](https://github.com/workallybrasil/V-Raykally) • [Microsoft Store](https://apps.microsoft.com/detail/9P6T4BVX32J6)
+[Website](https://v-raykally.adrienlejeune.com/) • [GitHub](https://github.com/adrixair/V-Raykally) • [Microsoft Store](https://apps.microsoft.com/detail/9P6T4BVX32J6)
 
 </div>
