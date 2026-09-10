@@ -15,9 +15,7 @@ Queue your scenes, follow every render, and keep creating.
 
 **[Download](#download)** &nbsp; · &nbsp; **[Explore the website](https://v-raykally.adrienlejeune.com/)** &nbsp; · &nbsp; **[Documentation](https://v-raykally.adrienlejeune.com/resources/)**
 
-<sub>English · <a href="README.fr.md">Français</a></sub>
-
-<br /><br />
+<br />
 
 <a href="https://v-raykally.adrienlejeune.com/">
   <img src="https://github.com/user-attachments/assets/28e16747-ad4f-4d3d-aa9b-ce31601ad791" alt="V-Raykally dashboard showing the local V-Ray render queue" width="1312" />
@@ -34,31 +32,31 @@ Built for artists, freelancers, and studios working with exported `.vrscene` and
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>↕ A queue that follows your priorities</h3>
+      <p><strong>A queue that follows your priorities</strong></p>
       <p>Import multiple scenes, reorder jobs by drag-and-drop, and track live render progress.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>◐ Simple when you want. Pro when you need.</h3>
+      <p><strong>Simple when you want. Pro when you need.</strong></p>
       <p>Start with a streamlined setup, then switch to Pro for more detailed render settings.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>⌁ Understand render failures</h3>
+      <p><strong>Understand render failures</strong></p>
       <p>Inspect logs and use local AI diagnostics to help interpret errors directly on your computer.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>↻ Keep the workflow moving</h3>
+      <p><strong>Keep the workflow moving</strong></p>
       <p>Stop a job, adjust its settings, and retry. Keep control of your queue as priorities change.</p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>◎ Your files stay with you</h3>
+      <p><strong>Your files stay with you</strong></p>
       <p>Scenes, assets, and outputs stay on your machine. Core queue and render management work offline.</p>
     </td>
     <td width="50%" valign="top">
-      <h3>✦ At home on your desktop</h3>
+      <p><strong>At home on your desktop</strong></p>
       <p>Windows and macOS, light and dark themes, and an interface available in 15 languages.</p>
     </td>
   </tr>
