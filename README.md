@@ -13,7 +13,7 @@ Queue your scenes, follow every render, and keep creating.
 
 [![Latest macOS release](https://img.shields.io/github/v/release/adrixair/V-Raykally?style=flat&label=macOS%20release&color=7c3aed)](https://github.com/adrixair/V-Raykally/releases/latest) [![Freeware](https://img.shields.io/badge/license-Freeware-2da44e?style=flat)](LICENSE) [![15 languages](https://img.shields.io/badge/languages-15-0969da?style=flat)](#languages)
 
-**[Download](#download)** &nbsp; · &nbsp; **[Explore the website](https://v-raykally.adrienlejeune.com/)** &nbsp; · &nbsp; **[Documentation](https://v-raykally.adrienlejeune.com/resources/)**
+**[Download](#download)** &nbsp; · &nbsp; **[Explore the website](https://v-raykally.adrienlejeune.com/)** &nbsp; · &nbsp; **[Documentation](https://v-raykally.adrienlejeune.com/documentation/)**
 
 <br />
 
@@ -88,12 +88,12 @@ The release badge above follows the latest published macOS release. Windows upda
 
 | I want to… | Guide |
 | :--- | :--- |
-| Connect my V-Ray installation | [Set up V-Ray Standalone](https://v-raykally.adrienlejeune.com/resources/vray-standalone-path-setup/) |
-| Render several scenes in a row | [Build a render queue](https://v-raykally.adrienlejeune.com/resources/how-to-queue-multiple-vray-renders/) |
-| Get more control over settings | [Simple and Pro modes](https://v-raykally.adrienlejeune.com/resources/simple-vs-pro-vray-settings/) |
-| Understand a failed render | [Local AI diagnostics](https://v-raykally.adrienlejeune.com/resources/v-raykally-local-ai-diagnostics/) |
+| Connect my V-Ray installation | [Set up V-Ray Standalone](https://v-raykally.adrienlejeune.com/documentation/install-vray/) |
+| Render several scenes in a row | [Build a render queue](https://v-raykally.adrienlejeune.com/documentation/import-scenes/) |
+| Get more control over settings | [Simple and Pro modes](https://v-raykally.adrienlejeune.com/documentation/appearance/) |
+| Understand a failed render | [Local AI diagnostics](https://v-raykally.adrienlejeune.com/documentation/diagnose-render/) |
 
-**[Browse all guides →](https://v-raykally.adrienlejeune.com/resources/)**
+**[Browse all guides →](https://v-raykally.adrienlejeune.com/documentation/)**
 
 ## Languages
 
@@ -115,7 +115,7 @@ Found an issue or have an idea? **[Open an issue](https://github.com/adrixair/V-
 
 Developed by **Adrien Lejeune & Workally** · São Paulo, Brazil
 
-[Website](https://v-raykally.adrienlejeune.com/) &nbsp; · &nbsp; [Documentation](https://v-raykally.adrienlejeune.com/resources/) &nbsp; · &nbsp; [Releases](https://github.com/adrixair/V-Raykally/releases) &nbsp; · &nbsp; [Workally](https://workally.com.br)
+[Website](https://v-raykally.adrienlejeune.com/) &nbsp; · &nbsp; [Documentation](https://v-raykally.adrienlejeune.com/documentation/) &nbsp; · &nbsp; [Releases](https://github.com/adrixair/V-Raykally/releases) &nbsp; · &nbsp; [Workally](https://workally.com.br)
 
 <sub>© 2025–2026 Workally – Adrien Lejeune. All rights reserved.</sub>
 
